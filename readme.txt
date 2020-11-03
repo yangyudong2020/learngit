@@ -3,6 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files
 this is i don't know.
+upupup
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 =======
